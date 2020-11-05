@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+      <!-- Required meta tags -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="project3">
+      <meta name="author" content="yingxincui">
+      <!-- Bootstrap CSS -->
+      <link href="css/style.css" rel="stylesheet">
+
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.css">
+      <link href="css/c3.min.css" rel="stylesheet">
+      <!--fonts-->
+      <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+      <title>Project 3</title>
+
+
+
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+<div class="container">
+  <div class="row">
+  <h1 class="title1">Coronavirus (COVID-19) in the U.S.</h1>
+</div>
+<p class="caption">By <a href="http://anncui.com">YINGXIN CUI </a><span class="cpation_time"> OCT. 29, 2020</span></p>
+<hr>
+  <!-- Chart1 -->
+  <div class="row">
+    <div id="chart1" class="chart col-md-6"></div>
+    <div  class="charts_intro col-md-6">
+      <h2> Cumulative Cases and Deaths</h2>
+      <div id="intro0">
+      <p>This dataset describes cumulative COVID-19 cases and deaths in the U.S., starting from January to the end of October. The United States now has the most cases and deaths of COVID-19 all over the world, while the second country is India. Confirmed cases and deaths are consistently increasing after April. </p>
+    </div>
+    </div>
+  </div>
+  <hr>
+
+    <!-- Nav tabs -->
+    <div class="row">
+    <h2>States that are most affected by COVID-19</h2>
+    <ul class="nav nav-pills">
+      <li class="active"><a data-toggle="pill" href="#home">Texas</a></li>
+      <li><a data-toggle="pill" href="#menu1">New York</a></li>
+    </ul>
+
+    <div class="tab-content">
+<!--Chart2-->
+      <div id="home" class="tab-pane fade in active">
+          <h3>City with the most COVID-19 deaths</h3>
+        <div id="chart2"></div>
+        <div id="intro2" class="charts_intro">
+        <p>This chart describes how the COVID-19 deaths increased overtime in Texas. Texas, as the state with the most COVID-19 deaths, the number of deaths has reached 17,819 at the end of October. When the coronavirus first broke out in Texas, the DSHS reported a presumptive positive test result for COVID-19 from a resident of Fort Bend County in the Houston area. A man in his 70s, he is the first known positive case of the disease in Texas outside of those evacuated from Wuhan and the Diamond Princess cruise ship. The patient had recently traveled to Egypt and was hospitalized. Then, starting from June, Texas started its reopening phase, which allows some businesses to open promptly; these businesses include childcare centers, gyms and exercise facilities, manufacturers, massage establishments, office buildings, and youth clubs. Starting from then, deaths begin to increase.</p>
+      </div>
+      </div>
+<!--Chart3-->
+      <div id="menu1" class="tab-pane fade">
+        <h3>City with the most COVID-19 cases</h3>
+        <div id="chart3"></div>
+        <div id="intro2" class="charts_intro">
+        <p>This chart describes how the COVID-19 cases increased overtime in New York City. At the end of October, New York has the most cases of COVID-19. The first case of COVID-19 was confirmed in New York State on March 1, 2020, in a 39-year-old health care worker who had returned home to Manhattan from Iran on February 25. Genomic analyses suggest the disease had been introduced to New York as early as January, and that most cases were linked to Europe, rather than Asia. On March 20, the governor's office issued an executive order closing non-essential businesses. The city's public transportation system remained open but experienced crowding due to reduced transit service and an increase of homeless persons seeking shelter on the subway. </p>
+      </div>
+    </div>
+</div>
+</div>
+<hr>
+    <!--data table-->
+    <div class="row">
+      <h2>See All Data</h2>
+    <table id="table_id" class="display">
+    <thead>
+        <tr>
+            <th>State Name</th>
+            <th>Total Cases</th>
+            <th>Total Deaths</th>
+        </tr>
+    </thead>
+    <tfoot>
+        <tr>
+            <th>State Name</th>
+            <th>Total Cases</th>
+            <th>Total Deaths</th>
+        </tr>
+    </tfoot>
+</table>
+</div>
+<!--end of container-->
+</div>
+
+
+    <!--jquery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.js"></script>
+
+     <!-- Resources For Bubble Chart -->
+    <!--<script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/offline-exporting.js"></script>
+    <script src="https://code.highcharts.com/mapdata/custom/world.js"></script>-->
+    <!-- D3C3-->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="js/c3.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

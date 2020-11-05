@@ -1,0 +1,12 @@
+[
+{"submission_date":"01/31/2020","state":"TX","tot_cases":0,"tot_death":0},
+{"submission_date":"02/29/2020","state":"TX","tot_cases":0,"tot_death":0},
+{"submission_date":"03/31/2020","state":"TX","tot_cases":3266,"tot_death":41},
+{"submission_date":"04/30/2020","state":"TX","tot_cases":28087,"tot_death":782},
+{"submission_date":"05/31/2020","state":"TX","tot_cases":64287,"tot_death":1672},
+{"submission_date":"06/30/2020","state":"TX","tot_cases":159986,"tot_death":2424},
+{"submission_date":"07/31/2020","state":"TX","tot_cases":420946,"tot_death":6569},
+{"submission_date":"08/31/2020","state":"TX","tot_cases":612969,"tot_death":12536},
+{"submission_date":"09/30/2020","state":"TX","tot_cases":748967,"tot_death":15711},
+{"submission_date":"10/29/2020","state":"TX","tot_cases":886820,"tot_death":17819}
+]

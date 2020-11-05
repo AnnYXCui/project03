@@ -1,0 +1,302 @@
+[
+  {
+    "State": "Alaska",
+    "Total Cases": 16764,
+    "Total Deaths": 84
+  },
+  {
+    "State": "Alabama",
+    "Total Cases": 197777,
+    "Total Deaths": 3006
+  },
+  {
+    "State": "Arkansas",
+    "Total Cases": 115812,
+    "Total Deaths": 2026
+  },
+  {
+    "State": "American Samoa",
+    "Total Cases": 0,
+    "Total Deaths": 0
+  },
+  {
+    "State": "Arizona",
+    "Total Cases": 250633,
+    "Total Deaths": 6059
+  },
+  {
+    "State": "California",
+    "Total Cases": 940010,
+    "Total Deaths": 17752
+  },
+  {
+    "State": "Colorado",
+    "Total Cases": 117637,
+    "Total Deaths": 2333
+  },
+  {
+    "State": "Connecticut",
+    "Total Cases": 75373,
+    "Total Deaths": 4645
+  },
+  {
+    "State": "District of Columbia",
+    "Total Cases": 17601,
+    "Total Deaths": 647
+  },
+  {
+    "State": "Delaware",
+    "Total Cases": 25753,
+    "Total Deaths": 716
+  },
+  {
+    "State": "Florida",
+    "Total Cases": 810256,
+    "Total Deaths": 16922
+  },
+  {
+    "State": "Federated States of Micronesia",
+    "Total Cases": 0,
+    "Total Deaths": 0
+  },
+  {
+    "State": "Georgia",
+    "Total Cases": 366452,
+    "Total Deaths": 8072
+  },
+  {
+    "State": "Guam",
+    "Total Cases": 4903,
+    "Total Deaths": 83
+  },
+  {
+    "State": "Hawaii",
+    "Total Cases": 15379,
+    "Total Deaths": 218
+  },
+  {
+    "State": "Iowa",
+    "Total Cases": 136522,
+    "Total Deaths": 1787
+  },
+  {
+    "State": "Idaho",
+    "Total Cases": 68314,
+    "Total Deaths": 664
+  },
+  {
+    "State": "Illinois",
+    "Total Cases": 443815,
+    "Total Deaths": 10216
+  },
+  {
+    "State": "Indiana",
+    "Total Cases": 191764,
+    "Total Deaths": 4464
+  },
+  {
+    "State": "Kansas",
+    "Total Cases": 92215,
+    "Total Deaths": 1087
+  },
+  {
+    "State": "Kentucky",
+    "Total Cases": 113009,
+    "Total Deaths": 1514
+  },
+  {
+    "State": "Louisiana",
+    "Total Cases": 190164,
+    "Total Deaths": 5975
+  },
+  {
+    "State": "Massachusetts",
+    "Total Cases": 168833,
+    "Total Deaths": 10044
+  },
+  {
+    "State": "Maryland",
+    "Total Cases": 149964,
+    "Total Deaths": 4182
+  },
+  {
+    "State": "Maine",
+    "Total Cases": 7260,
+    "Total Deaths": 150
+  },
+  {
+    "State": "Michigan",
+    "Total Cases": 212160,
+    "Total Deaths": 7782
+  },
+  {
+    "State": "Minnesota",
+    "Total Cases": 160923,
+    "Total Deaths": 2584
+  },
+  {
+    "State": "Missouri",
+    "Total Cases": 193023,
+    "Total Deaths": 3088
+  },
+  {
+    "State": "Northern Mariana Islands",
+    "Total Cases": 96,
+    "Total Deaths": 2
+  },
+  {
+    "State": "Mississippi",
+    "Total Cases": 123887,
+    "Total Deaths": 3405
+  },
+  {
+    "State": "Montana",
+    "Total Cases": 35955,
+    "Total Deaths": 404
+  },
+  {
+    "State": "North Carolina",
+    "Total Cases": 282802,
+    "Total Deaths": 4507
+  },
+  {
+    "State": "North Dakota",
+    "Total Cases": 49837,
+    "Total Deaths": 596
+  },
+  {
+    "State": "Nebraska",
+    "Total Cases": 75888,
+    "Total Deaths": 669
+  },
+  {
+    "State": "New Hampshire",
+    "Total Cases": 11563,
+    "Total Deaths": 484
+  },
+  {
+    "State": "New Jersey",
+    "Total Cases": 245257,
+    "Total Deaths": 16391
+  },
+  {
+    "State": "New Mexico",
+    "Total Cases": 50251,
+    "Total Deaths": 1059
+  },
+  {
+    "State": "Nevada",
+    "Total Cases": 104093,
+    "Total Deaths": 1814
+  },
+  {
+    "State": "New York",
+    "Total Cases": 249422,
+    "Total Deaths": 9301
+  },
+  {
+    "State": "New York City",
+    "Total Cases": 269723,
+    "Total Deaths": 24047
+  },
+  {
+    "State": "Ohio",
+    "Total Cases": 230209,
+    "Total Deaths": 5428
+  },
+  {
+    "State": "Oklahoma",
+    "Total Cases": 134224,
+    "Total Deaths": 1399
+  },
+  {
+    "State": "Oregon",
+    "Total Cases": 47049,
+    "Total Deaths": 705
+  },
+  {
+    "State": "Pennsylvania",
+    "Total Cases": 217666,
+    "Total Deaths": 8890
+  },
+  {
+    "State": "Puerto Rico",
+    "Total Cases": 69416,
+    "Total Deaths": 855
+  },
+  {
+    "State": "Palau",
+    "Total Cases": 0,
+    "Total Deaths": 0
+  },
+  {
+    "State": "Rhode Island",
+    "Total Cases": 35122,
+    "Total Deaths": 1214
+  },
+  {
+    "State": "Republic of Marshall Islands",
+    "Total Cases": 1,
+    "Total Deaths": 0
+  },
+  {
+    "State": "South Carolina",
+    "Total Cases": 180870,
+    "Total Deaths": 3985
+  },
+  {
+    "State": "South Dakota",
+    "Total Cases": 49791,
+    "Total Deaths": 460
+  },
+  {
+    "State": "Tennessee",
+    "Total Cases": 269802,
+    "Total Deaths": 3478
+  },
+  {
+    "State": "Texas",
+    "Total Cases": 926400,
+    "Total Deaths": 18320
+  },
+  {
+    "State": "Utah",
+    "Total Cases": 121485,
+    "Total Deaths": 625
+  },
+  {
+    "State": "Virginia",
+    "Total Cases": 187203,
+    "Total Deaths": 3688
+  },
+  {
+    "State": "Virgin Islands",
+    "Total Cases": 1388,
+    "Total Deaths": 23
+  },
+  {
+    "State": "Vermont",
+    "Total Cases": 2268,
+    "Total Deaths": 58
+  },
+  {
+    "State": "Washington",
+    "Total Cases": 111480,
+    "Total Deaths": 2416
+  },
+  {
+    "State": "Wisconsin",
+    "Total Cases": 257287,
+    "Total Deaths": 2229
+  },
+  {
+    "State": "West Virginia",
+    "Total Cases": 25987,
+    "Total Deaths": 472
+  },
+  {
+    "State": "Wyoming",
+    "Total Cases": 15044,
+    "Total Deaths": 105
+  }
+]

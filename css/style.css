@@ -1,0 +1,65 @@
+.container{
+  margin: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.loading {
+    margin-top: 10em;
+    text-align: center;
+    color: gray;
+}
+.row{
+  margin-top:30px;
+  margin-left:0px;
+  margin-right: 0px;
+}
+
+.title1{
+  text-align: center;
+  margin: auto;
+  font-family: 'Oswald', sans-serif;
+}
+p{
+  text-align: center;
+  margin-top: 20px;
+  display: block;
+  font-family: 'Noto Sans', sans-serif;
+}
+h2{
+  text-align: center;
+  margin: auto;
+  padding-top:30px;
+  padding-bottom:30px;
+  display: block;
+  font-family: 'Oswald', sans-serif;
+}
+.charts_intro{
+  padding: 10px;
+}
+.chart{
+  height: 400px;
+  margin: auto;
+  display: block;
+  position: relative;
+}
+.caption{
+  margin-top: 20px;
+  font-size: 14px;
+  color: grey;
+}
+.cpation_time {
+  padding-left: 15px;
+}
+table.data {
+  margin-bottom: 30px;
+}
+#intro2{
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+#intro0{
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+}

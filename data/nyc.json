@@ -1,0 +1,12 @@
+[
+{"submission_date":"01/31/2020","state":"NYC","total_cases":0,"total_death":0},
+{"submission_date":"02/29/2020","state":"NYC","total_cases":0,"total_death":0},
+{"submission_date":"03/31/2020","state":"NYC","total_cases":41771,"total_death":1096},
+{"submission_date":"04/30/2020","state":"NYC","total_cases":162212,"total_death":17866},
+{"submission_date":"05/31/2020","state":"NYC","total_cases":205555,"total_death":21607},
+{"submission_date":"06/30/2020","state":"NYC","total_cases":217019,"total_death":23104},
+{"submission_date":"07/31/2020","state":"NYC","total_cases":226767,"total_death":23536},
+{"submission_date":"08/31/2020","state":"NYC","total_cases":235264,"total_death":23703},
+{"submission_date":"09/30/2020","state":"NYC","total_cases":245462,"total_death":23829},
+{"submission_date":"10/29/2020","state":"NYC","total_cases":265105,"total_death":23996}
+]

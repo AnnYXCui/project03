@@ -1,0 +1,13 @@
+[
+
+{"date_reported":"Jan.","country":"United States of America","cumu_cases":11,"cumu_deaths":0},
+{"date_reported":"Feb.","country":"United States of America","cumu_cases":66,"cumu_deaths":0},
+{"date_reported":"Mar.","country":"United States of America","cumu_cases":140640,"cumu_deaths":2398},
+{"date_reported":"Apr.","country":"United States of America","cumu_cases":1003974,"cumu_deaths":57730},
+{"date_reported":"May","country":"United States of America","cumu_cases":1734040,"cumu_deaths":102640},
+{"date_reported":"June","country":"United States of America","cumu_cases":2537636,"cumu_deaths":126203},
+{"date_reported":"July","country":"United States of America","cumu_cases":4388566,"cumu_deaths":150054},
+{"date_reported":"Aug.","country":"United States of America","cumu_cases":5899504,"cumu_deaths":181689},
+{"date_reported":"Sept.","country":"United States of America","cumu_cases":7077015,"cumu_deaths":203875},
+{"date_reported":"Oct.","country":"United States of America","cumu_cases":8852730,"cumu_deaths":227178}
+]
